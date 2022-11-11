@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @black-evil-dragon 
-### I'm a beginner web-developer and i love programming. 
+## 👋 Hi, I’m @black-evil-dragon 
+I'm a beginner web-developer and i love programming. 
 
 ## I’m currently learning Frontend & Backend
 - React.js
