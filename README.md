@@ -10,3 +10,6 @@ I'm a beginner web-developer and i love programming.
 - VK — https://vk.com/blackevildragon
 - Mail.ru — blackevildragon@mail.ru
 - Telegram — @blackevil_dragon
+
+## What am I doing now?
+Lately, I've been completely dedicated to exams, so it's very difficult to do anything unrelated to it.
