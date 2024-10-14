@@ -2,9 +2,10 @@
 I'm a beginner web-developer and i love programming. 
 
 ## I’m currently learning Frontend & Backend
-- React.js (TypeScript)
-- Django (Python)
+- React.js
+- Django
 - Node.js
+- Lang: TypeScript, Python
 
 
 ## 📫 How to reach me? 
