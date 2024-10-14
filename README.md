@@ -2,9 +2,10 @@
 I'm a beginner web-developer and i love programming. 
 
 ## I’m currently learning Frontend & Backend
-- React.js
-- Next.js
-- Django
+- React.js (TypeScript)
+- Django (Python)
+- Node.js
+
 
 ## 📫 How to reach me? 
 - VK — https://vk.com/blackevildragon
