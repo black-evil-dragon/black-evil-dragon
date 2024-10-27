@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @black-evil-dragon 
-I'm a beginner web-developer and i love programming. 
+I'm a beginner fullstack-developer and i love programming. 
 
 ## I’m currently learning Frontend & Backend
 - React.js
