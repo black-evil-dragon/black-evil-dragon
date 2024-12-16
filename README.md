@@ -11,7 +11,7 @@ I'm a beginner fullstack-developer and i love programming.
 ## 📫 How to reach me? 
 - VK — https://vk.com/blackevildragon
 - Mail.ru — blackevildragon@mail.ru
-- Telegram — @blackevil_dragon
+- Telegram — https://t.me/blackevil_dragon
 
 ## What am I doing now?
 - Self-development
