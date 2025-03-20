@@ -1,5 +1,11 @@
 ## 👋 Hi, I’m @black-evil-dragon 
 I'm a beginner fullstack-developer and i love programming. 
+```javascript
+while (alive) {
+    love(code);
+}
+// Since 2018
+```
 
 ## I’m currently learning Frontend & Backend
 - React.js
@@ -18,6 +24,7 @@ I'm a beginner fullstack-developer and i love programming.
 - Improvement of skills
 - Creation of pet-projects
 
+```js
 // Lately, I've been completely dedicated to exams, so it's very difficult to do anything unrelated to it.
-
-Hooray! I passed the exams, profile mathematics 74, Russian 85, computer science and ICT 93!
+"Hooray! I passed the exams, profile mathematics 74, Russian 85, computer science and ICT 93!"
+```
